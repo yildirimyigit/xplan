@@ -1,0 +1,7 @@
+<library path="lib/liblocal_planner">
+  <class name="local_planner/LocalPlanner" type="local_planner::LocalPlanner" base_class_type="base_local_planner::BaseLocalPlanner">
+    <description>
+      x local planner implementation.
+    </description>
+  </class>
+</library>
